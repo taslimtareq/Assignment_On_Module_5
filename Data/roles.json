@@ -1,0 +1,1 @@
+[{"id":1,"uid":"653b973f8f25b","role":"Admin","permissions":["retrieve_role","create_role","update_role","delete_role"]},{"id":2,"uid":"653c8cc08ddc4","role":"User","permissions":["retrieve_user","create_user","update_user","delete_user"]},{"id":3,"uid":"653c97b7bc739","role":"Manager","permissions":[]},{"id":4,"uid":"653c97c2f1f09","role":"Editor","permissions":[]}]
